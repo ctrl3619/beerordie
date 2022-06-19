@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.9e7d50dc.css",
-    "main.js": "./static/js/main.d526a882.js",
-    "static/js/787.59a436ce.chunk.js": "./static/js/787.59a436ce.chunk.js",
-    "static/media/Hoegaarden.png": "./static/media/Hoegaarden.7b38fe7846763f419729.png",
-    "static/media/KozelDark.jpeg": "./static/media/KozelDark.75321d4bd98e8e7b86ac.jpeg",
-    "static/media/Terraimg.png": "./static/media/Terraimg.19ee5ae7e9fec59561bd.png",
-    "static/media/BigWave.jpeg": "./static/media/BigWave.fed54435c3ad87c677f2.jpeg",
-    "static/media/Urquell.jpeg": "./static/media/Urquell.86f378e3fef1480a4732.jpeg",
-    "static/media/EdelweissSnowfresh.jpeg": "./static/media/EdelweissSnowfresh.00ca14970033cd51a154.jpeg",
-    "static/media/GuinnessDraught.jpeg": "./static/media/GuinnessDraught.d17b89ad16cc7dcea1a1.jpeg",
-    "static/media/SangSang.jpeg": "./static/media/SangSang.84bdfa4ce62d1748a183.jpeg",
-    "static/media/Blanc1664.jpeg": "./static/media/Blanc1664.176b77ccb54868242935.jpeg",
-    "index.html": "./index.html",
-    "main.9e7d50dc.css.map": "./static/css/main.9e7d50dc.css.map",
-    "main.d526a882.js.map": "./static/js/main.d526a882.js.map",
-    "787.59a436ce.chunk.js.map": "./static/js/787.59a436ce.chunk.js.map"
+    "main.css": "/beerordie/static/css/main.9e7d50dc.css",
+    "main.js": "/beerordie/static/js/main.ced49516.js",
+    "static/js/787.59a436ce.chunk.js": "/beerordie/static/js/787.59a436ce.chunk.js",
+    "static/media/Hoegaarden.png": "/beerordie/static/media/Hoegaarden.7b38fe7846763f419729.png",
+    "static/media/KozelDark.jpeg": "/beerordie/static/media/KozelDark.75321d4bd98e8e7b86ac.jpeg",
+    "static/media/Terraimg.png": "/beerordie/static/media/Terraimg.19ee5ae7e9fec59561bd.png",
+    "static/media/BigWave.jpeg": "/beerordie/static/media/BigWave.fed54435c3ad87c677f2.jpeg",
+    "static/media/Urquell.jpeg": "/beerordie/static/media/Urquell.86f378e3fef1480a4732.jpeg",
+    "static/media/EdelweissSnowfresh.jpeg": "/beerordie/static/media/EdelweissSnowfresh.00ca14970033cd51a154.jpeg",
+    "static/media/GuinnessDraught.jpeg": "/beerordie/static/media/GuinnessDraught.d17b89ad16cc7dcea1a1.jpeg",
+    "static/media/SangSang.jpeg": "/beerordie/static/media/SangSang.84bdfa4ce62d1748a183.jpeg",
+    "static/media/Blanc1664.jpeg": "/beerordie/static/media/Blanc1664.176b77ccb54868242935.jpeg",
+    "index.html": "/beerordie/index.html",
+    "main.9e7d50dc.css.map": "/beerordie/static/css/main.9e7d50dc.css.map",
+    "main.ced49516.js.map": "/beerordie/static/js/main.ced49516.js.map",
+    "787.59a436ce.chunk.js.map": "/beerordie/static/js/787.59a436ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e7d50dc.css",
-    "static/js/main.d526a882.js"
+    "static/js/main.ced49516.js"
   ]
 }
